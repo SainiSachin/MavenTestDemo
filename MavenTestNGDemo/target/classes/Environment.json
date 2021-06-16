@@ -1,0 +1,18 @@
+{
+  "Environments": {
+    "Staging": {
+      "apiUrl": "staging.example.com",
+      "clientId": "client Id staging",
+      "clientSecret": "client Secret staging",
+      "user": "staging username",
+      "password": "staging password"
+    },
+    "Testing": {
+      "apiUrl": "testing.example.com",
+      "clientId": "client Id testing",
+      "clientSecret": "client Secret testing",
+      "user": "testing username",
+      "password": "testing password"
+    }
+  }
+}
